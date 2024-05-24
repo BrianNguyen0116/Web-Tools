@@ -1,7 +1,7 @@
 # Web Tools - Web-Side Feature Collection 
 
 Purposed mainly for website applications such as e-commerce or inventory management using .NET framework (C#).
-- [Search](#searchjs)
+- [Search](#searchjs) - [.zip](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FBrianNguyen0116%2FWeb-Tools%2Ftree%2Fmaster%2Fsrc%2Ffilter-checkbox)
 - [Filter (Checkbox)](#filterjs---checkbox)
 - [Filter (Radio Button)](#filterjs---radio-button)
 
