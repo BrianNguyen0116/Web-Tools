@@ -27,7 +27,7 @@ ___
 
 Have the user check off boxes and filter out items from their view that is assigned respectively.
 
-`Not case-sensitive` `jQuery Core 3.7.1` `Partial match`
+`Exact match` `jQuery Core 3.7.1`
 ### Usage
 Assign a input-type element's class to "chk", onchange to "Filter()" and have the target elements to include the class "target". 
 
@@ -39,7 +39,7 @@ ___
 
 Have the user select individual options and filter out items from their view that is assigned respectively.
 
-`Not case-sensitive` `jQuery Core 3.7.1` `Partial match`
+`Exact match` `jQuery Core 3.7.1`
 ### Usage
 Assign a input-type element's class to "rb", oninput to "Filter()" and have the target elements to include the class "target". 
 
