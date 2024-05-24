@@ -3,7 +3,7 @@
 Purposed mainly for website applications such as e-commerce or inventory management using .NET framework (C#).
 - [Search](#searchjs)
 - [Filter (Checkbox)](#filterjs---checkbox)
-- [Search (Radio Button)](#filterjs---radio-button)
+- [Filter (Radio Button)](#filterjs---radio-button)
 
 Modules are stored as partials to be integrated onto projects through the /View/Shared folder.
 ___
