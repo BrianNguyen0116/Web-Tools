@@ -1,5 +1,5 @@
-# Web Tools
-## A collection of widely used web-side functionality
+# Web Tools - A collection of widely used web-side functionality. 
+
 Purposed mainly for website applications such as e-commerce or inventory management using .NET framework (C#).
 - [Search](#Search.js)
 
