@@ -1,9 +1,9 @@
 # Web Tools - Web-Side Feature Collection 
 
 Purposed mainly for website applications such as e-commerce or inventory management using .NET framework (C#).
-- [Search](#Search.js)
-- [Filter (Checkbox)](#Filter.js)
-- [Search (Radio Button)](#Filter.js)
+- [Search](#searchjs)
+- [Filter (Checkbox)](#filterjs---checkbox)
+- [Search (Radio Button)](#filterjs---radio-button)
 
 Modules are stored as partials to be integrated onto projects through the /View/Shared folder.
 ___
