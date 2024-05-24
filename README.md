@@ -2,8 +2,8 @@
 
 Purposed mainly for website applications such as e-commerce or inventory management using .NET framework (C#).
 - [Search](#searchjs) - [.zip](https://github.com/BrianNguyen0116/Web-Tools/raw/master/src/search/_search.zip)
-- [Filter (Checkbox)](#filterjs---checkbox)
-- [Filter (Radio Button)](#filterjs---radio-button)
+- [Filter (Checkbox)](#filterjs---checkbox) - [.zip](https://github.com/BrianNguyen0116/Web-Tools/raw/master/src/filter-radio/_filter.zip)
+- [Filter (Radio Button)](#filterjs---radio-button) - [.zip](https://github.com/BrianNguyen0116/Web-Tools/raw/master/src/filter-checkbox/_filter.zip)
 
 Modules are stored as partials to be integrated onto projects through the /View/Shared folder.
 ___
