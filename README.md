@@ -11,7 +11,7 @@ ___
 
 Have the user input keywords and filter out items from their view that contains the keyword.
 
-`Not case sensitive` `jQuery Core 3.7.1` `Partial search`
+`Not case-sensitive` `jQuery Core 3.7.1` `Partial match`
 ### Usage
 Assign a input-type element's name to "search" oninput to "Search()" and have the target elements to include the class "target". 
 
