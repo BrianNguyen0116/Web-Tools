@@ -1,4 +1,4 @@
-# Web Tools - Web-Side Feature Collection 
+# Web Tools - Web-Side jQuery Collection 
 
 Purposed mainly for website applications such as e-commerce or inventory management using .NET framework (C#).
 - [Search](#searchjs) - [.zip](https://github.com/BrianNguyen0116/Web-Tools/raw/master/src/search/_search.zip)
