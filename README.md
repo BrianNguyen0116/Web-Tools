@@ -7,7 +7,7 @@ Modules are stored as partials to be integrated onto projects through the /View/
 ___
 ## __Search.js__
 
-[Directory]() - Web-side search functionality. 
+[Directory](https://github.com/BrianNguyen0116/Web-Tools/tree/master/src/search)
 
 Have the user input keywords and filter out items from their view that contains the keyword.
 
